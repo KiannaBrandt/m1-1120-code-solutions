@@ -1,0 +1,58 @@
+h1 {
+  font-family: 'Karla', sans-serif;
+  text-transform: uppercase;
+  font-size: 2.5em;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Karla', sans-serif;
+  text-transform: uppercase;
+  font-size: 1em;
+  padding-top: 1.5em;
+}
+
+p {
+  font-family: 'Karla', sans-serif;
+  font-weight: 400;
+  font-size: 0.9em;
+  color: #505050;
+  line-height: 2em;
+}
+
+section {
+  padding-right: 3.8em;
+}
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+  padding-top: 2em;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  margin: 0.5em;
+}
+
+.column-full {
+  width: 600px;
+  text-align: center;
+}
+
+button {
+  background-color: white;
+  font-family: 'Karla', sans-serif;
+  font-size: 1em;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #d96d67;
+  border-color: #d96d67;
+  padding: 0.5em;
+  border-style: solid;
+  border-width: 0.2em;
+  width: 12em;
+}
