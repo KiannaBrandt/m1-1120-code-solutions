@@ -1,0 +1,36 @@
+h1 {
+  font-family: 'DM Sans', sans-serif;
+  text-align: center;
+}
+
+.row {
+  width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+}
+
+.column-one-fifth {
+  flex-basis: 15%;
+  padding: 0 0.7rem;
+}
+
+img {
+  width: 250px;
+  height: 365px;
+}
+
+p {
+  font-family: 'DM Sans', sans-serif;
+}
+
+.size-retail {
+  color: #e2e2e2;
+}
+
+.price {
+  background-color: #f6eadf;
+  border-radius: 2px;
+  border: #f6eadf;
+}
