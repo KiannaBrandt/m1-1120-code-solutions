@@ -1,0 +1,37 @@
+
+body {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.right {
+  color: rgb(46, 206, 49);
+}
+
+.wrong {
+  color: red;
+  border-bottom: 3px solid red;
+}
+
+.current {
+  border-bottom: 3px solid black;
+}
+
+h1 {
+  display: flex;
+}
+
+div {
+  margin: 1rem;
+}
+
+span {
+  font-size: 3rem;
+}
